@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Practicals</string>
+    <string name="app_name_practical2">Pigeon Mail</string>
+    <string name="app_name_assignment1">Pigeon Mail</string>
+    <string name="action_settings">Settings</string>
+    <string name="Clear">Clear Text</string>
+    <string name="email_from">From&#160;&#160;&#160;</string>
+    <string name="email_to">To&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="email_to_hint">Receiver</string>
+    <string name="email_cc">Cc&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="email_bcc">Bcc&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="email_subject">Subject</string>
+    <string name="email_body">Email Body</string>
+    <string name="feedback_name">Please enter your name:</string>
+    <string name="feedback_name_hint">Please enter your name:</string>
+    <string name="feedback_email">Please enter your email address</string>
+    <string name="feedback_email_hint">Please enter your email address</string>
+    <string name="feedback_actual">Please enter your feedback</string>
+    
+    <string name="feedback_heading">Feedback Form</string>
+    <string name="feedback_instructions">We value your feedback. Enter your name and email address to be entered into our draw on January 28th, 2014 for a Samsung 32 inch LED TV! We do not pass on your details to third parties.</string>
+    <string name="feedback_actual_hint">Please enter your feedback</string>
+    <string name="feedback_actual">Please enter your feedback</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Send">Send</string>
+    <string name="sent_from">Sent from Pigeon Mail for Android</string>
+    <string name="go_back">Back</string>
+    <string name="Suggestion">Suggestion</string>
+    <string name="ReportProblem">Report Problem</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="about_this_app">Assignment 1 Description</string>
+    <string name="appdescription">"This application launches with a splash screen which is set to show for a few seconds before proceeding to the main activity (email composition view).\n\nThe user can send an email and clear the text via the ActionBar. The Actionbarsherlock library was utilised to enable this feature (The Actionbarsherlock project is included in the submisison since it must be referenced by the application project).\n\nPlease note that this application is for educational purposes only - and there isn`t really a TV to be won."	</string>
+	<string name="send_new_email">New Email</string>
+	<string name="previous">Previous</string>
+	<string name="compose">Compose</string>
+	<string name="sent_preview">Sent/Preview</string>
+	<string name="feedback">Feedback</string>
+	<string name="about_page">About</string>
+</resources>

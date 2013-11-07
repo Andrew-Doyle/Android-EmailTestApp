@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/go_back"
+        android:icon="@drawable/back"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/info"
+        android:orderInCategory="5"
+        android:showAsAction="ifRoom"
+        android:title="@string/about">
+    </item>
+    <item
+        android:id="@+id/new_email"
+        android:icon="@drawable/new_email"
+        android:orderInCategory="4"
+        android:showAsAction="ifRoom"
+        android:title="@string/send_new_email">
+    </item>
+    
+    <item
+        android:id="@+id/cancel"
+        android:icon="@drawable/cancel"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/send_email"
+        android:icon="@drawable/send"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom">
+    </item>
+
+
+</menu>
